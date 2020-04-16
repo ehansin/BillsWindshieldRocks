@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="description" content="Windshield rock chip repair in Salinas and Monterey County, California." />
+	<title>Bill's Windshield Rock Chip Repair of Monterey County, CA</title>
+	<link rel="stylesheet" type="text/css" href="styles/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="styles/milligram.css" />
+	<link rel="stylesheet" type="text/css" href="styles/styles.css" />
+<!--
+	<link rel="stylesheet" type="text/css" href="styles/skeleton.css" />
+-->
+</head>
+
+<body>
+<div id="main" class="container">
+	<header>
+		<h1>Bill's Windshield Repair of Salinas</h1>
+		<h2>Rock Chip Repair Experts serving Monterey County, California</h2>
+		<h2>Fast, convenient windshield rock chip repair.</h2>
+	</header>
+	<main>
+		<div id="home">
+			<p>Have your windshield repaired fast, convenient and with confidence. We offer mobile rock chip repair service with over 20 years experience. Our goal is to provide a hassle-free solution preventing replacement of your windshield.</p>
+		</div>
+		<img src="images/trucking.jpg" alt="Trucking" height="450" width="600">
+		<div id="service">
+			<h2>To schedule a repair, please call:</h2>
+			<h3>831-262-0073</h3>
+		</div>
+		<div id="warranty">
+			<h2>Warranty:</h2>
+			<p>Our repairs are guaranteed as long as you own your vehicle. Most insurance companies will pay for rock chip repair if you have comprehensive coverage. Deductible will be waived.</p>
+		</div>
+		<div id="locations">
+			<h2>Locations:</h2>
+			<p>We offer a mobile repair service throughout the Salinas/Monterey Bay Area.<br />
+			Including the following locations:</p>
+			<h3>Monterey County:</h3>
+			<p>Big Sur<br />
+			Carmel by the Sea<br />
+			Carmel Valley<br />
+			Castroville<br />
+			Gonzales<br />
+			Greenfield<br />
+			Marina<br />
+			Monterey<br />
+			Pacific Grove<br />
+			Pebble Beach<br />
+			Salinas<br />
+			Seaside<br />
+			Soledad<br />
+			Watsonville</p>
+		</div>
+	</main>
+	<footer>
+		<h3>Bill's Windshield Rock Chip Repair</h3>
+		<p>Hours: Monday through Saturday, 8 a.m. to 6 p.m.<br />
+		Phone: 831-262-0073</p>
+	</footer>
+	<div id="clients">
+		<h2>Our clients include:</h2>
+			<h3>Non-profits</h3>
+		<img src="images/SPCA.jpg" alt="SPCA" width="600" width="645">
+			<h3>Commerical and fleet vehicles</h3>
+		<img src="images/CommercialFleet.jpg" alt="Commercial Fleet" width="600" width="265">
+		<img src="images/FleetAccounts.jpg" alt="Fleet Accounts" width="600" width="315">
+			<h3>Rare vehicles</h3>
+		<img src="images/Ferrari.jpg" alt="Ferrari" width="600" width="704">
+		<img src="images/RareFerrari.jpg" alt="Rare Ferrari" width="600" width="459">
+			<h3>And of course any vehicle you might have as well!</h3>
+	</div>
+
+	<h2>Again, to schedule a repair, please call:</h2>
+	<h3>831-262-0073</h3>
+	<h3>We can help you understand and work through the insurance process, and our repairs are guaranteed!</h3>
+</div>
+</body>
+</html>
